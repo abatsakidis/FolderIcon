@@ -1,0 +1,10 @@
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\bin\Debug\FolderIcons.exe.config
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\bin\Debug\FolderIcons.exe
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\bin\Debug\FolderIcons.pdb
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.csproj.AssemblyReference.cache
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.csproj.SuggestedBindingRedirects.cache
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.frmFolderIcon.resources
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.csproj.GenerateResource.cache
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.csproj.CoreCompileInputs.cache
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.exe
+C:\Users\abats\OneDrive\Desktop\FolderIcons\FolderIcons\obj\Debug\FolderIcons.pdb
